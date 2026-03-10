@@ -33,5 +33,5 @@ Make sure you have installed:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/Kaylee1q/django‑project.git
+git clone https://github.com/SHYNAR-S/django‑project.git
 cd django‑project
